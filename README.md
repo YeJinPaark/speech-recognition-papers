@@ -6,7 +6,7 @@
   
 * \[2012/11\] [**Sequence Transduction with Recurrent Neural Networks**](https://arxiv.org/abs/1211.3711)   : J
   
-* \[2015/08\] [**Listen, Attend and Spell**](https://arxiv.org/abs/1508.01211)
+* \[2015/08\] [**Listen, Attend and Spell**](https://arxiv.org/abs/1508.01211) : Y
 
 * \[2017/06\] [**Joint CTC Attention**](https://arxiv.org/pdf/1609.06773.pdf)
 
