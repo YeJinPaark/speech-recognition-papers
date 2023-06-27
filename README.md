@@ -2,13 +2,13 @@
   
 <p align=center><i> End-to-End, Listen-Attend-Spell, Speech-Transformer, RNN-Transducer </i></p>  
 
-* \[2006/08\] [**CTC**] (https://www.cs.toronto.edu/~graves/icml_2006.pdf)
+* \[2006/08\] [**CTC**](https://www.cs.toronto.edu/~graves/icml_2006.pdf)
   
 * \[2012/11\] [**Sequence Transduction with Recurrent Neural Networks**](https://arxiv.org/abs/1211.3711)   
   
 * \[2015/08\] [**Listen, Attend and Spell**](https://arxiv.org/abs/1508.01211)
 
-* \[2017/06\] [**Joint CTC Attention**] (https://arxiv.org/pdf/1609.06773.pdf)
+* \[2017/06\] [**Joint CTC Attention**](https://arxiv.org/pdf/1609.06773.pdf)
 
 * \[2017/06\] [**Advances in Joint CTC-Attention based E2E ASR with a Deep CNN Encoder and RNN-LM**](https://arxiv.org/abs/1706.02737)   
   
