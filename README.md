@@ -34,4 +34,6 @@
   
 * \[2020/05\] [**Conformer: Convolution-augmented Transformer for Speech Recognition**](https://arxiv.org/abs/2005.08100)  
   
-* \[2020/06\] [**wav2vec 2.0: A Framework for Self-Supervised Learning of Speech Representations**](https://arxiv.org/abs/2006.11477)  
+* \[2020/06\] [**wav2vec 2.0: A Framework for Self-Supervised Learning of Speech Representations**](https://arxiv.org/abs/2006.11477)
+
+* \[2022/12\] [**Robust Speech Recognition via Large-Scale Weak Supervision (Whisper)**](https://arxiv.org/pdf/2212.04356.pdf)
