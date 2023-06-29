@@ -16,7 +16,9 @@
   
 * \[2017/12\] [**State-of-the-art Speech Recognition with Sequence-to-Sequence Models**](https://arxiv.org/abs/1712.01769) 
   
-* \[2017/12\] [**An Analsis Of Incorporating An External Language Model Into A Sequence-to-Sequence Model**](https://arxiv.org/abs/1712.01996)   
+* \[2017/12\] [**An Analsis Of Incorporating An External Language Model Into A Sequence-to-Sequence Model**](https://arxiv.org/abs/1712.01996)
+
+* \[2018/02\] [**MONOTONIC CHUNKWISE ATTENTION**](https://arxiv.org/pdf/1712.05382.pdf)
   
 * \[2018/04\] [**Speech-Transformer: A No-Recurrence Sequence-to-Sequence Model for Speech Recognition**](https://ieeexplore.ieee.org/document/8462506)  
   
