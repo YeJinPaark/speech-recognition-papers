@@ -8,7 +8,7 @@
   
 * \[2015/08\] [**Listen, Attend and Spell**](https://arxiv.org/abs/1508.01211) : Y
 
-* \[2017/06\] [**Joint CTC Attention**](https://arxiv.org/pdf/1609.06773.pdf)
+* \[2017/06\] [**Joint CTC Attention**](https://arxiv.org/pdf/1609.06773.pdf) : KY
 
 * \[2017/06\] [**Advances in Joint CTC-Attention based E2E ASR with a Deep CNN Encoder and RNN-LM**](https://arxiv.org/abs/1706.02737)   
   
