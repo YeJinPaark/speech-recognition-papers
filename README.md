@@ -10,11 +10,11 @@
 
 * \[2017/06\] [**Joint CTC Attention**](https://arxiv.org/pdf/1609.06773.pdf) : KY
 
-* \[2017/06\] [**Advances in Joint CTC-Attention based E2E ASR with a Deep CNN Encoder and RNN-LM**](https://arxiv.org/abs/1706.02737)   
+* \[2017/06\] [**Advances in Joint CTC-Attention based E2E ASR with a Deep CNN Encoder and RNN-LM**](https://arxiv.org/abs/1706.02737) : Y
   
 * \[2017/07\] [**Attention Is All You Need**](https://arxiv.org/abs/1706.03762)   
   
-* \[2017/12\] [**State-of-the-art Speech Recognition with Sequence-to-Sequence Models**](https://arxiv.org/abs/1712.01769) 
+* \[2017/12\] [**State-of-the-art Speech Recognition with Sequence-to-Sequence Models**](https://arxiv.org/abs/1712.01769)  : J
   
 * \[2017/12\] [**An Analsis Of Incorporating An External Language Model Into A Sequence-to-Sequence Model**](https://arxiv.org/abs/1712.01996)
 
