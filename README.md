@@ -39,3 +39,7 @@
 * \[2020/06\] [**wav2vec 2.0: A Framework for Self-Supervised Learning of Speech Representations**](https://arxiv.org/abs/2006.11477)
 
 * \[2022/12\] [**Robust Speech Recognition via Large-Scale Weak Supervision (Whisper)**](https://arxiv.org/pdf/2212.04356.pdf)
+
+# <h2 align="center"> Spoken Language Understanding Papers </h2>
+
+* \[2022/07\] [**Integration of Pre-trained Networks with Continuous Token Interface for End-to-end Spoken Language Understanding**](https://arxiv.org/pdf/2104.07253.pdf)
